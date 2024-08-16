@@ -25,6 +25,11 @@ The popularity of baby names is shaped by a variety of factors that often reflec
 Social trends and movements further impact baby name choices, with the rise of environmental awareness leading to nature-inspired names like "River" or "Willow," and the push for gender inclusivity resulting in more gender-neutral names such as "Jordan" or "Taylor." Technology and social media are also emerging influences, with social media influencers and modern innovations occasionally inspiring name choices. Cultural and ethnic heritage plays a crucial role as well, with parents opting for names that reflect their cultural background or choosing names from other cultures due to globalization. Family traditions and personal significance remain strong influences, with ancestral names and personal stories often guiding the choice of a child's name. These diverse influences combine to create a dynamic and ever-changing landscape of baby name popularity, reflecting the evolving values and trends of society.
 
 #
+### Ngram Viewer
+
+The Ngram Viewer is a tool provided by Google that allows users to visualize the frequency of specific words or phrases in a large corpus of texts over time. This tool uses data from a vast collection of digitized books (currently spanning from 1500 to 2019) and displays trends in the usage of terms, allowing for analysis of linguistic, cultural, or historical changes.
+
+#
 
 > Alex: "*Stop using my name.*"
 
