@@ -33,8 +33,6 @@ Social trends and movements further impact baby name choices, with the rise of e
 
 [Word Mao](https://chatgpt.com/g/g-fUiD2XBka-word-map)
 <br>
-[Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
-<br>
 [Ngram Viewer](https://books.google.com/ngrams/)
 
 ***
