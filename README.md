@@ -1,6 +1,6 @@
 ![Elon](https://github.com/user-attachments/assets/c89c9a88-9a97-4ccf-8609-fba9b84e5c20)
 
-> Words or combinations of words that form individual entity.
+> Words or combinations of words that form individual identity.
 
 #
 
