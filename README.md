@@ -34,6 +34,10 @@ The Ngram Viewer is a tool provided by Google that allows users to visualize the
 > Alex: "*Stop using my name.*"
 
 #
+
+![Alex](https://github.com/user-attachments/assets/94961a5b-966e-4985-9a5f-7f0406129b6f)
+
+#
 ### Related Links
 
 [Word Map](https://chatgpt.com/g/g-fUiD2XBka-word-map)
